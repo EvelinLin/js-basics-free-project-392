@@ -7,12 +7,7 @@
 
 ## Стек
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
-
-```bash
-git clone https://github.com/EvelinLin/js-basics-free-project-392.git
-Node.js js-basics-free-project-392
-```
+Node.js
 
 ## Установка
 
@@ -26,6 +21,13 @@ cd js-basics-free-project-392
 ## Использование
 
 Запустите приложение командой:
+
+<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+
+```bash
+git clone https://github.com/EvelinLin/js-basics-free-project-392.git
+Node.js js-basics-free-project-392
+```
 
 node main.js
 
